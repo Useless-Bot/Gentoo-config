@@ -1,0 +1,5 @@
+net-im/discord-bin ~amd64
+games-util/steam-launcher ~amd64
+games-util/game-device-udev-rules ~amd64
+games-util/lutris ~amd64
+app-arch/unrar ~amd64
